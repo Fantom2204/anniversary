@@ -1,0 +1,24 @@
+body{
+  padding: 10%;
+  background-color: #ffa5a5;
+  font-family: 'Chilanka', cursive;
+  font-size: 1rem;
+}
+.photo{
+  width: 600px;
+  padding: 10px;
+}
+h1,h2,h3{
+  text-align: center;
+  padding-bottom: 20px;
+color: white;
+font-family: 'Dancing Script', cursive;
+font-size: 5rem;
+}
+#slideshow{
+  text-align: center;
+  padding: 150px;
+}
+.slides{
+  width: 80%;
+}
